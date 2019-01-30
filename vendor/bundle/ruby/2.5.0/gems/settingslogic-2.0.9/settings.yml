@@ -1,0 +1,5 @@
+language:
+  haskell:
+    paradigm: functional
+  smalltalk:
+    paradigm: object oriented
